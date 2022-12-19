@@ -1,4 +1,1 @@
-Solution to RSA-Factoring-Challenge
-
-q
-
+solution to RSA FACTORING CHALLENGE
